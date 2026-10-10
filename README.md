@@ -1,3 +1,5 @@
+<a href="https://kodialex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Kodi Alex, UX designer and developer in Berlin" width="100%"></picture></a>
+
 <p><sub><b>1</b> · Decorated frames</sub></p>
 
 <a href="https://kodialex.com"><img src="assets/options/v1.svg" alt="Kodi Alex, UX designer and developer in Berlin (Decorated frames)" width="100%"></a>
