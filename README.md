@@ -1,10 +1,21 @@
-<a href="https://kodialex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Kodi Alex, UX designer and developer in Berlin" width="100%"></picture></a>
+<p><sub><b>1</b> · Decorated frames</sub></p>
 
-<a href="https://kodialex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/horse-dark.svg"><img src="assets/horse-light.svg" alt="An ASCII horse galloping, after Muybridge, 1878. Made to move." width="100%"></picture></a>
+<a href="https://kodialex.com"><img src="assets/options/v1.svg" alt="Kodi Alex, UX designer and developer in Berlin (Decorated frames)" width="100%"></a>
 
-<table>
-<tr><td width="33%"><a href="https://github.com/realstrawhat/csakura"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-csakura-dark.svg"><img src="assets/tile-csakura-light.svg" alt="csakura" width="100%"></picture></a></td><td width="33%"><a href="https://kodialex.com/project-food-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-food-ai-dark.svg"><img src="assets/tile-food-ai-light.svg" alt="Food AI" width="100%"></picture></a></td><td width="33%"><a href="https://kodialex.com/project-hate-speech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-hate-speech-dark.svg"><img src="assets/tile-hate-speech-light.svg" alt="Hate speech classifier" width="100%"></picture></a></td></tr>
-<tr><td width="33%"><a href="https://kodialex.com/project-tech-revive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-recycle-dark.svg"><img src="assets/tile-recycle-light.svg" alt="ReCycle" width="100%"></picture></a></td><td width="33%"><a href="https://kodialex.com/project-mind-well"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-mind-well-dark.svg"><img src="assets/tile-mind-well-light.svg" alt="Mind Well" width="100%"></picture></a></td><td width="33%"><a href="https://kodialex.com/project-aadarana"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-charity-dark.svg"><img src="assets/tile-charity-light.svg" alt="Two charity websites" width="100%"></picture></a></td></tr>
-</table>
+<p><sub><b>2</b> · Contact sheet</sub></p>
+
+<a href="https://kodialex.com"><img src="assets/options/v2.svg" alt="Kodi Alex, UX designer and developer in Berlin (Contact sheet)" width="100%"></a>
+
+<p><sub><b>3</b> · Kinetic type</sub></p>
+
+<a href="https://kodialex.com"><img src="assets/options/v3.svg" alt="Kodi Alex, UX designer and developer in Berlin (Kinetic type)" width="100%"></a>
+
+<p><sub><b>4</b> · Film strip</sub></p>
+
+<a href="https://kodialex.com"><img src="assets/options/v4.svg" alt="Kodi Alex, UX designer and developer in Berlin (Film strip)" width="100%"></a>
+
+<p><sub><b>5</b> · Swiss motion poster</sub></p>
+
+<a href="https://kodialex.com"><img src="assets/options/v5.svg" alt="Kodi Alex, UX designer and developer in Berlin (Swiss motion poster)" width="100%"></a>
 
 <p align="center"><a href="https://kodialex.com"><b>kodialex.com</b></a> · <a href="https://www.linkedin.com/in/kodialex">LinkedIn</a> · <a href="mailto:rockzzalex1@gmail.com">say hi</a></p>
